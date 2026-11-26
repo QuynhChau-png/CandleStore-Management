@@ -1,3 +1,7 @@
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 # 🕯️ CandleStore - Quản lý cửa hàng nến
 
 Ứng dụng desktop (Windows Forms) xây dựng đơn giản hỗ trợ quản lý bán hàng cho cửa hàng nến thơm: quản lý sản phẩm, khách hàng, hóa đơn và phân quyền người dùng. Dự án xây dựng theo mô hình **3 lớp (GUI - BUS - DAO)** kết hợp **DTO**, sử dụng **SQL Server** làm cơ sở dữ liệu.
